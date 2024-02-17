@@ -1,5 +1,0 @@
-package kotlinConcepts
-
-fun main() {
-
-}
