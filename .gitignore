@@ -3,6 +3,7 @@ out/
 .idea/
 KotlinProgramming.iml
 .idea/workspace.xml
+
 !**/src/main/**/out/
 !**/src/test/**/out/
 
